@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://edohphaeki.dropwizard.io/sitemap.xml
